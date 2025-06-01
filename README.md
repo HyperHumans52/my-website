@@ -7,3 +7,7 @@ Updates made on main on GitHub before rebase
 ## Repository Purpose
 
 This file is just a readme file.
+
+### Purpose
+
+Using Git and GitHub together.
